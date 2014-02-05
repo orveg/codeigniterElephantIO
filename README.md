@@ -1,4 +1,4 @@
-CodeIgniter ElephantIO Liblary
+CodeIgniter ElephantIO Library
 =================
 
  Requirements
@@ -11,13 +11,13 @@ CodeIgniter ElephantIO Liblary
 
 
 
-  CONFIG
+CONFIG
 ```
 $config['socketIOUrl'] = "http://localhost:3030";
  
 ```
 
-  EXAMPLES
+EXAMPLES
 ```
   // load Library
   $this->load->library('elephantio/elephantio');
@@ -32,3 +32,9 @@ $config['socketIOUrl'] = "http://localhost:3030";
  License
   -------
   This library is released under the MIT license.
+   ludogp2@gmail.com
+  
+ Thanks
+  -------
+  [Ludovic Barreca](http://elephant.io/)
+  
