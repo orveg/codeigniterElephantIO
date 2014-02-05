@@ -29,10 +29,11 @@ EXAMPLES
  
 ```
 
+
  License
   -------
   This library is released under the MIT license.
-   ludogp2@gmail.com
+  
   
  Thanks
   -------
